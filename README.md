@@ -3,13 +3,13 @@
 <p>Download do python https://www.python.org/downloads/ </p>
 <p>Abrir o instalador após o download e selecionar opção 'Add Python 3.9 to Path'</p>
 <p>Caso queira personalizar a pasta de instalação do python recomendo criar uma nova pasta em 'C:' com o nome de 'Python3' </p>
-<p>Após instalação clicar em 'Disable path length limit' caso sistema operacional seja windows </p>
-<p>Validar se a instalação concluiu corretamente através do terminal com o comando 'python --version' </p>
+<p>Após instalação clicar em <b>'Disable path length limit'</b> caso sistema operacional seja windows </p>
+<p>Validar se a instalação concluiu corretamente através do terminal com o comando <b>'python --version'</b> </p>
 
 <h3>Instalando o Robot Framework</h3>
-<p>Após instalar o python vamos baixar o Robot Framework através do seguinte comando 'pip install robotframework'<p>
-<p>Validar a instalação com o comando robot --version<p>
-<p>Após será necessário instalar a biblioteca Browser com o comando 'pip install roboframework-browser'</p>
+<p>Após instalar o python vamos baixar o Robot Framework através do seguinte comando <b>'pip install robotframework'</b><p>
+<p>Validar a instalação com o comando <b>robot --version</b><p>
+<p>Após será necessário instalar a biblioteca Browser com o comando <b>'pip install roboframework-browser'</b></p>
 
 <h2>Como rodar o teste?</h2>
 <p>Clonar o projeto</p>
