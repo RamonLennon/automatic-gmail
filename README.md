@@ -20,7 +20,7 @@
 
 <h2>Resultado dos testes</h2>
 <p>O resultado dos testes e dos possíveis erros é registrado na pasta logs no projeto através de 2 arquivos:</p>
-<p>Report - Trás informações sobre o total de testes realizados e que passaram ou deram erro</p>
-<p>Logs - Registra todos o logs dos testes, bem como os possíveis erros e trás evidencia de quando há algum erro</p>
+<p><b>Report</b> - Trás informações sobre o total de testes realizados e que passaram ou deram erro</p>
+<p><b>Logs</b> - Registra todos o logs dos testes, bem como os possíveis erros e trás evidencia de quando há algum erro</p>
 
 <b>Obs.:</b> Criei todo o processo automatizado para criação de uma nova conta de e-mail, porém o google após um determinado momento começou a solicitar o código de verificação via telefone celular, o que me deixou em um empasse. De qualquer maneira, criei todo o fluxo bem como a arquitetura page objects.
