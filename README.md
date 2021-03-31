@@ -14,9 +14,9 @@
 <h2>Como rodar o teste?</h2>
 <p>Clonar o projeto</p>
 <p>Acessar a pasta 'tests' detro do projeto </p>
-<p>Iniciar o robot com o comando 'rfbrowser init' aqui fará download de algumas dependências </p>
-<p>Editar o arquivo 'create_acc' alterando os ## das variáveis para os dados que desejar, há dicas do que preencher</p>
-<p>Após, basta rodar o comando 'robot -d ../logs create.robot' através do prompt de comando</p>
+<p>Iniciar o robot com o comando <b>'rfbrowser init'</b> aqui fará download de algumas dependências </p>
+<p>Editar o arquivo <b>'create_acc'</b> alterando os ## das variáveis para os dados que desejar, há dicas do que preencher</p>
+<p>Após, basta rodar o comando <b>'robot -d ../logs create.robot'</b> através do prompt de comando</p>
 
 <h2>Resultado dos testes</h2>
 <p>O resultado dos testes e dos possíveis erros é registrado na pasta logs no projeto através de 2 arquivos:</p>
