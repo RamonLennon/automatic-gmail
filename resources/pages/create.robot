@@ -32,7 +32,7 @@ Preencher Nascimento e Sexo
     Select From List  css=#gender             ${genero_arg}
     
     Click  xpath=//span[contains(text(),'Próxima')]/..
-    Wait For Elements State  xpath//h1[contains(text(),'Privacidade e Termos')]
+    Wait For Elements State  xpath=//h1[contains(text(),'Privacidade e Termos')]
 
 Aceitar Termos de Uso
     Check Checkbox  xpath=//input[@aria-labelledby="selectionc0"]
