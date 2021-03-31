@@ -1,7 +1,7 @@
 <h1>Desafio Edenred</h1>
 <h3>Instalando o python</h3>
 <p>Download do python https://www.python.org/downloads/ </p>
-<p>Abrir o instalador após o download e selecionar opção 'Add Python 3.9 to Path'</p>
+<p>Abrir o instalador após o download e selecionar opção <b>'Add Python 3.9 to Path'</b></p>
 <p>Caso queira personalizar a pasta de instalação do python recomendo criar uma nova pasta em 'C:' com o nome de 'Python3' </p>
 <p>Após instalação clicar em <b>'Disable path length limit'</b> caso sistema operacional seja windows </p>
 <p>Validar se a instalação concluiu corretamente através do terminal com o comando <b>'python --version'</b> </p>
